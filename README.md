@@ -5,6 +5,15 @@
 
 This Arduino code implements a simple snake game on an LED matrix display with Enabling pin change interrupt and  Interrupt service routine for the buttons.
 
+
+## Components Required
+
+- Arduino board
+- LED matrix display
+- Push buttons (for directional control)
+- Jumper wires
+
+
 ## Instructions
 
 1. **Connect Hardware**:
